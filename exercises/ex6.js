@@ -15,3 +15,9 @@ Use the eatsPlants and eatsAnimals variables to test your code.
 
 If eatsPlants equals true and eatsAnimals equals false, then herbivore should be printed to the console. 
 */
+const eatsAnimals = true;
+const eatsPlants = ;
+const
+if (){
+
+}

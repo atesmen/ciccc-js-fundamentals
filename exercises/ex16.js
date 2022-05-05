@@ -35,3 +35,7 @@ function makeLine(length) {
     }
     return line + "\n";
 }
+
+function buildTriangle(number){
+
+}

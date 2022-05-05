@@ -4,3 +4,12 @@ Write a named function expression that stores the function in a variable called 
 cry();
 Returns: boohoo!
 */
+const cry = function expression(number){
+    let crying = "";
+   for(let i = 0; i<number ; i++){
+        crying += "BooHoo!";
+   }
+   return crying
+}
+console.log(cry(3));
+
